@@ -6,7 +6,7 @@ This project aims to predict house prices in Tehran, Iran, using machine learnin
 Dataset    
 The dataset contains real estate information from Tehran, including house prices in both local currency and USD. It has been preprocessed to ensure data quality and improve model performance.
 
-Models Used     
+Models Used          
 We experimented with multiple models and fine-tuned hyperparameters to find the most effective predictor:
 
 Linear Regression    
