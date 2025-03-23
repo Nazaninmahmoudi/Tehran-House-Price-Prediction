@@ -3,14 +3,14 @@ Tehran House Price Prediction (2025)
 Project Overview
 This project aims to predict house prices in Tehran, Iran, using machine learning models. The dataset includes various features such as area, number of rooms, parking availability, warehouse, elevator presence, and location. By applying different regression models, we identify the best approach for accurate price prediction.
 
-Dataset
+Dataset    
 The dataset contains real estate information from Tehran, including house prices in both local currency and USD. It has been preprocessed to ensure data quality and improve model performance.
 
-Models Used
+Models Used     
 We experimented with multiple models and fine-tuned hyperparameters to find the most effective predictor:
 
-Linear Regression
-Lasso Regression
+Linear Regression    
+Lasso Regression    
 Decision Tree Regressor
 Random Forest Regressor
 XGBoost Regressor (Best Performing Model)
