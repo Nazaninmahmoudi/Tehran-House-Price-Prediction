@@ -30,9 +30,9 @@ Use the trained model to predict house prices based on user input.
 
 Results & Performance
 
-Train Score: ~0.88
-Test Score: ~0.88
-Minimal Overfitting: The model generalizes well to unseen data.
+Train Score: ~0.88        
+Test Score: ~0.88        
+Minimal Overfitting: The model generalizes well to unseen data. 
 
 Future Improvements
 
